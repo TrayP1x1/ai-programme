@@ -8,7 +8,7 @@ One entry per week. Be honest: this log is evidence for the competency tracker.
 - Hardest question: eigen values and eigen vector
 
 ## Week 1
-- Hours (Day 1 / 2 / 3 / 4 / review):
+- Hours (Day 1: 1 hour / 2 / 3 / 4 / review):
 - Hints opened (exercise number and hint number):
 - Blank-page rebuild time:
 - One thing that was hard:
